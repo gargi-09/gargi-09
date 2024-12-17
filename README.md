@@ -9,7 +9,6 @@
 <!-- style=flat-square& -->
 [![Gmail Badge](https://img.shields.io/badge/-Gargi-D14836?logo=Gmail&logoColor=white&link=mailto:theanamikajain@gmail.com)](mailto:gargivipat@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gargi%20Vipat-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/gargi-vipat/)
-[![Twitter](https://img.shields.io/badge/@GargiVipat-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GargiVipat)
 
 
 ### ⚡ Languages and Frameworks:
