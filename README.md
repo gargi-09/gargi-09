@@ -12,8 +12,8 @@ MS in Artificial Intelligence, Northeastern University (4.0 GPA) · Ex-MLE Co-op
 
 I work on the layer between raw data and useful answers: retrieval systems, hybrid search, and agentic pipelines that actually ship to real users. At GrantX, I built two production systems from scratch:
 
-- **[Talk_To_NOFO](#)** - A multi-PDF Q&A engine (LangChain + Vertex AI Gemini + Supabase) that lets grant seekers query dense federal funding notices in plain English. Serving **100+ active users**.
-- **[AI_Fusion_Search](#)** - A hybrid grant-matching engine combining BM25, ELSER, and dense vector search with LLM reranking to surface relevant funding opportunities. Serving **200+ organizations**.
+- **Talk_To_NOFO** - A multi-PDF Q&A engine (LangChain + Vertex AI Gemini + Supabase) that lets grant seekers query dense federal funding notices in plain English. Serving **100+ active users**.
+- **AI_Fusion_Search** - A hybrid grant-matching engine combining BM25, ELSER, and dense vector search with LLM reranking to surface relevant funding opportunities. Serving **200+ organizations**.
 
 I like problems where "just use an LLM" isn't the whole answer - where retrieval quality, latency, and grounding actually matter.
 
