@@ -24,10 +24,10 @@ I like problems where "just use an LLM" isn't the whole answer - where retrieval
 | Project | What it does | Stack |
 |---|---|---|
 | **[DepthAR](https://github.com/gargi-09/depthar)** | Real-time AR occlusion using Depth Anything V2-Small + SegFormer-B0, running 8–12 FPS on CPU. Full IEEE-style writeup included. | PyTorch, OpenCV, Computer Vision |
-| **Nextnode** | Neurosymbolic knowledge graph system - Neo4j schema design with multi-hop Cypher traversal for structured + LLM reasoning. | Neo4j, Cypher, Python |
+| **[Nextnode](https://github.com/gargi-09/NextNode)** | Neurosymbolic knowledge graph system - Neo4j schema design with multi-hop Cypher traversal for structured + LLM reasoning. | Neo4j, Cypher, Python |
 | **groundcheck** *(in progress)* | RAG faithfulness auditing tool that tests retrieval-augmented answers against Wikipedia and PubMedQA for six categories of hallucination/failure. | Python, Evaluation Frameworks |
-| **RAG for QA over Construction Documents** | Domain-specific document Q&A pipeline for dense, unstructured technical PDFs. | LangChain, Vector Search |
-| **NEO Threat Prediction** | Predictive modeling project for threat/risk classification. | Python, ML |
+| **[RAG for QA over Construction Documents](https://github.com/akashd-98/RAG--an-ablation-study)** | Domain-specific document Q&A pipeline for dense, unstructured technical PDFs. | LangChain, Vector Search |
+| **[NEO Threat Prediction](https://github.com/gargi-09/FAI-Project)** | Predictive modeling project for threat/risk classification. | Python, ML |
 
 📌 *Full project list and write-ups in [Repositories](https://github.com/gargi-09?tab=repositories) - each one has a README with the problem, approach, and results.*
 
