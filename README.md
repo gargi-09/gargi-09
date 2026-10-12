@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Gargi Vipat 👋</h1>
+<h1 align="left">Hi, I'm Gargi 👋</h1>
 
 <h3 align="left">ML/AI Engineer building retrieval systems, agents, and applied ML for real users</h3>
 
