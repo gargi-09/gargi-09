@@ -26,7 +26,7 @@ My core focus is making AI reliable when **"just prompt an LLM" fails** - enforc
 ### 🏆 Hackathon Spotlight
 
 #### **[FoGuard](https://x.com/GargiVipat/status/2112239242420334667) - Safe Autonomous Navigation & Incident Recovery for Physical AI Agents**
-*Built at Wajo AI's GSD Hackathon (October 2026)*
+*Built at Wajo AI x Anthropic GSD Hackathon (October 2026)*
 
 * **The Problem:** Enterprise warehouse logistics and physical autonomous agents cannot afford routing hallucinations that cause collisions or gridlock when corridors are obstructed.
 * **Architecture:** 
