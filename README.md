@@ -39,7 +39,7 @@ My core focus is making AI reliable when **"just prompt an LLM" fails** - enforc
 
 ### 💼 Work Experience
 
-* **AI Engineer** @ **One Community Global** *(Aug 2026 – Present | Portland, ME)*  
+* **AI Engineer** @ **One Community Global** *(Aug 2026 – Present | Remote)*  
   * Designing AI-driven automated prompt workflows for bio and announcement generation across weekly publications for a 150+ person volunteer organization.
   * Structuring the *Highest Good Network* manual into clean, chunked, RAG-ready knowledge graphs and vector corpora for the organization's upcoming conversational AI assistant.
   * Contributing to technical interviewing and evaluation of prospective software engineering and AI contributors.
